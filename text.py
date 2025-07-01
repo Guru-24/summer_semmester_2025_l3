@@ -5,3 +5,6 @@ sum=n+m
 
 print("sum is:",sum)
 
+sub=n-m
+
+print("sub is",sub)
