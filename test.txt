@@ -2,4 +2,6 @@ Amity university
 btech 
 cse
 sourcecode
-ece
+
+cyber security
+aiml
