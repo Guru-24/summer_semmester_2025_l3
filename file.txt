@@ -1,3 +1,4 @@
  Amity university 
- btech 
- cse
+ btech-cse 
+ cec
+
