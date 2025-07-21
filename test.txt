@@ -3,6 +3,6 @@ btech
 cse
 sourcecode
 cyber security
-aiml
+ailm
 now testing code in test1 branch
 btech information tecnology
